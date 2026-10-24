@@ -112,13 +112,13 @@ background-color:whitesmoke;
 .menu-toggle {
     display: block;
     position: relative;
-    margin-left: -100px;
+    margin-left: -80px;
 }
 
 .logo-div {
     display: block;
     position: relative;
-    margin-left: -90px;
+    margin-left: -100px;
 }
 
 .nav-link {
@@ -327,7 +327,7 @@ background-color:whitesmoke;
     display: flex;
     position: absolute;
     background-color: #034C71;
-    width: 45%;
+    width: 55%;
     height: 60px;
     align-items: center;
     justify-content: space-around;
@@ -336,7 +336,7 @@ background-color:whitesmoke;
     border-radius: 30px;
     padding: 20px;
     border: 1px solid white;
-    box-sizing: border-box;
+ 
 }
 
 .btn {
