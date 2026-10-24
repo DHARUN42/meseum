@@ -118,7 +118,7 @@ background-color:whitesmoke;
 .logo-div {
     display: block;
     position: relative;
-    margin-left: -10px;
+    margin-left: -50px;
 }
 
 .nav-link {
@@ -1515,7 +1515,7 @@ margin-left:10%;
 }
 
 #mystery-name {
-    font-size: 22px;
+    font-size: 25px;
 }
 
 #mystery-risk {
@@ -1525,11 +1525,11 @@ margin-left:10%;
     height: fit-content;
     font-size: 13px;
     text-align: center;
-    padding: 8px;
+    padding: 10px;
     border-radius: 50px;
     margin-bottom: 10px;
     color: white;
-    margin-left: 0;
+    margin-left: 50%;
 }
 
 .mystery-p {
@@ -1539,22 +1539,22 @@ margin-left:10%;
     display: flex;
     position: relative;
     width: fit-content;
-    max-width: 100%;
+   
     height: auto;
-    min-height: 40px;
+    
     align-items: center;
     border-radius: 10px;
     background-color: aliceblue;
-    box-sizing: border-box;
+    
     padding: 5px;
     
 }
 
 #mystery-found,#mystery-date,#mystery-owner,#mystery-age,#mystery-contents {
-    margin-left: 0;
-    width: 100%;
-    max-width: 250px;
-    box-sizing: border-box;
+    margin-left: 0px;
+    
+    width: 250px;
+  
 }
 
 .b {
