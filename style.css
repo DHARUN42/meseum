@@ -112,7 +112,7 @@ background-color:whitesmoke;
 .menu-toggle {
     display: block;
     position: relative;
-    margin-left: -100px;
+    margin-left: -140px;
 }
 
 .logo-div {
@@ -334,7 +334,7 @@ background-color:whitesmoke;
     margin-top: -200px;
     margin-left: 20px;
     border-radius: 30px;
-    padding: 10px;
+    padding: 20px;
     border: 1px solid white;
     box-sizing: border-box;
 }
@@ -1547,7 +1547,7 @@ margin-left:10%;
     background-color: aliceblue;
     box-sizing: border-box;
     padding: 5px;
-    overflow-wrap: anywhere;
+    
 }
 
 #mystery-found,#mystery-date,#mystery-owner,#mystery-age,#mystery-contents {
@@ -1559,14 +1559,14 @@ margin-left:10%;
 
 .b {
     width: 120px;
-    max-width: 100%;
+    
     margin-left: 10px;
 }
 
 #mystery-notes {
     font-size: 14px;
     margin-top: 10px;
-    overflow-wrap: anywhere;
+   
 }
 
 
